@@ -29,6 +29,6 @@ This is the collaborative work done by Jax Wu, Khizra Hanif, and Harper Yan.
 References 
 The following literature and websites are used as references in our process of doing this project. 
 1. https://www.techiedelight.com/graph-implementation-using-stl/
-2. https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
+2. https://www.youtube.com/watch?v=9XAx279s7gs
 3. Chatterjee, B., Peri, S., Sa, M., & Singhal, N. (2018). A Simple and Practical Concurrent Non-blocking Unbounded Graph with Reachability Queries. ArXiv. /abs/1809.00896.
-   
+
